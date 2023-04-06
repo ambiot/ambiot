@@ -16,7 +16,7 @@ Realtek Ameba IoT supports a large variety of open-source projects, including SD
 * [AmebaD Family](https://github.com/ambiot/ambd_arduino)
 * [AmebaPro2 Family](https://github.com/ambiot/ambpro2_arduino)
 ### MicroPython SDK Development
-* [AmebaD Family](https://github.com/ambiot/ambd_micropython)
+* [AmebaD Family](https://github.com/ambiot/micropython)
 
 ## Forum
 * [Ameba IoT Forum](https://forum.amebaiot.com/)

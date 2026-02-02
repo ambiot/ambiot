@@ -10,7 +10,7 @@ Realtek Ameba AIoT supports a large variety of open-source projects, including S
 * [Ameba AIoT Forum](https://forum.amebaiot.com/)
 
 ## Documents
-* [Ameba AIoT Documents homepage](https://aiot.realmcu.com/)
+* [Ameba AIoT Documents homepage](https://aiot.realmcu.com/en/latest/)
 
 ## Social Media
 * [YouTube Channel](https://www.youtube.com/channel/UCplqTUNYZEoIKs0nAWf9DCQ)

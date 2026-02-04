@@ -3,6 +3,7 @@
 Realtek Ameba IoT supports a large variety of open-source projects, including SDKs, HDKs, solutions, components, and tools. Also, third parties contributions are included. This Ameba IoT eco system aims to help developers to study tranding technology and turn their innovation ideas into real. All Ameba IoT official opensource software are available on this GitHub site. The following link leads to all Ameba IoT open-source projects. [Repository link](https://github.com/ambiot?tab=repositories).
 
 ## Solutions
+* [Ameba Solutions](https://aiot.realmcu.com/en/home.html)
 * [IoT Control SoC](https://www.amebaiot.com/en/control-mcu/)
 * [Video SoC (inculde AIoT feature)](https://www.amebaiot.com/en/video/)
 
@@ -20,6 +21,7 @@ Realtek Ameba IoT supports a large variety of open-source projects, including SD
 * [Ameba IoT Forum](https://forum.amebaiot.com/)
 
 ## Documents
+* [Ameba SDK Related Documents](https://aiot.realmcu.com/en/latest/)
 * [Arduino SDK related Documents ](https://www.amebaiot.com/en/ameba-arduino-summary/)
 * [MicroPython SDK related Documents ](https://www.amebaiot.com/en/ameba-micropython-summary/)
 
